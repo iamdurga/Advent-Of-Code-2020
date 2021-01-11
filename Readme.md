@@ -4,3 +4,6 @@ All data files are under [Data](/Data) folder.
 ## Day 1
 * [Challenge link](https://adventofcode.com/2020/day/1)
 * Using Python
+## Day 2
+* [Challenge link](https://adventofcode.com/2020/day/2)
+* Using python
